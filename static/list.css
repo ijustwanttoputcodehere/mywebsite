@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url(/static/listbg.jpg);
+    background-size: 100% 100%;
+    background-repeat-y: no-repeat;
+
+}
+

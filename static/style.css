@@ -1,0 +1,17 @@
+body{
+    background-color: #0f121f;
+    background-image: url(/static/bgi.jpg);
+    background-size: 100% 100%;
+    background-repeat-y: no-repeat;
+    color: black ;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  opacity: 1;
+}
+
+.img:hover .overlay {
+  opacity: 0.5;
+}
