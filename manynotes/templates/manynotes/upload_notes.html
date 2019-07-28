@@ -26,19 +26,17 @@
 <nav>
     <div class="nav-wrapper amber lighten-1" style="color:black;">
 
-        <a href="#" class="brand-logo center">Logo</a>
-
       <ul id="nav-mobile" class="left hide-on-med-and-down">
-        <li><a href="{% url 'home' %}">Home</a></li>
+        <li><a href="{% url 'home' %}">Kategorie</a></li>
         <li><a href="{% url 'notes_list' %}">Lista</a></li>
         <li><a href="{% url 'upload_notes' %}">Dodaj</a></li>
-         <li><a href="{% url 'categories' %}">Kategorie</a></li>
+         <li><a href="{% url 'logout' %}">Wyloguj</a></li>
       </ul>
     </div>
   </nav>
 
 <div class="container">
-<h2>Upload Notes</h2>
+<h2>Dodaj plik</h2>
     <div class="blue-grey lighten-5">
     <form method="post" enctype="multipart/form-data">
     {%  csrf_token %}
