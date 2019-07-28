@@ -120,10 +120,10 @@ def category_5(request):
     notes = Notes.objects.filter(Q(category__icontains='Men'))
     return render(request, template, {'notes': notes})
 
-
+@login_required(login_url='login')
 def logout_request(request):
     logout(request)
-    return render(request, "manynotes/home.html")
+    return render(request, "manynotes/login.html")
 
 
 def login_request(request):
