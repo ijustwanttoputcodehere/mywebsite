@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4a8fa96-f0d2-4def-86a2-779cc41d0e29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manynotes/templates/manynotes/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/manynotes/templates/manynotes/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manynotes/templates/manynotes/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/manynotes/templates/manynotes/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manynotes/templates/manynotes/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/manynotes/templates/manynotes/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manynotes/templates/manynotes/notes_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/manynotes/templates/manynotes/notes_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manynotes/templates/manynotes/upload_notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/manynotes/templates/manynotes/upload_notes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manynotes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/manynotes/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="d4a8fa96-f0d2-4def-86a2-779cc41d0e29" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manynotes/templates/manynotes/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="61" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#!!top" expanded="true" />
               </folding>
@@ -72,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manynotes/templates/manynotes/upload_notes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -300,8 +292,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="279" y="102" width="1405" height="850" extended-state="0" />
-    <editor active="true" />
+    <frame x="299" y="96" width="1405" height="850" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -489,16 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manynotes/templates/manynotes/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="61" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manynotes/templates/manynotes/upload.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -512,6 +493,16 @@
           <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manynotes/templates/manynotes/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
